@@ -29,8 +29,13 @@ This site was built using **WordPress + Elementor's visual page builder**. No cu
 
 ## 🖼 Gallery
 
-| Homepage | About Section | Services Section | Testimonials Section | Contact Us Section | Tablet View | Mobile View |
-| ![Homepage](./screenshots/homepage.png) | ![About](./screenshots/about-page.png) | ![Mobile](./screenshots/mobile-view.png) | ![Mobile](./screenshots/mobile-view.png) | ![Mobile](./screenshots/mobile-view.png) | ![Mobile](./screenshots/mobile-view.png) | ![Mobile](./screenshots/mobile-view.png) |
+| Homepage | About Us Section | Services Section |
+|:---:|:---:|:---:|
+| ![Homepage](./screenshots/homepage.png) | ![About Us Section](./screenshots/about-section.png) | ![Services Section](./screenshots/services-section.png) |
+| Testimonials Section | Contact Us Section | Why Choose Us Section |
+| ![Testimonials Section](./screenshots/testimonial-section.png) | ![Contact Us Section](./screenshots/contact-us-section.png) | ![Why Choose Us Section](./screenshots/why-choose-us-section.png) |
+| Scaffolding Solutions Section | Projects Section | Footer Section |
+| ![Scaffolding Solutions Section](./screenshots/scaffolding-solution-section.png) | ![Projects Section](./screenshots/projects-section.png) | ![Footer Section](./screenshots/footer-section.png) |
 
 ---
 
